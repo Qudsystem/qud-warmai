@@ -1,0 +1,25 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "chen37058"
+repo_name: "Awesome-Red-Teaming"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 1000
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_wechat_path: './docs/cv-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+keywords:
+    "Red Teaming": 
+        filters: ["red team", "red teaming", "jailbreak"]
