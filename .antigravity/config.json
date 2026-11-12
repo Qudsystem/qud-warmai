@@ -1,0 +1,14 @@
+{
+  "mode": "agent-assisted",
+  "auto_approve_safe_operations": true,
+  "checkpoint_interval": 5,
+  "fallback_model": "gemini-flash",
+  "project_name": "SHΔDØW CORE V99",
+  "models": {
+    "primary": "gemini-pro",
+    "secondary": "claude-sonnet",
+    "fast_tasks": "gemini-flash"
+  },
+  "auto_checkpoint": true,
+  "monitoring_enabled": true
+}
