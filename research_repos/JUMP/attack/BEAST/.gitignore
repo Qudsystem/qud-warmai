@@ -1,0 +1,5 @@
+/ckpt/*
+/results/*
+/wandb/*
+loss/
+cookies/*
